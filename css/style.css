@@ -6,15 +6,15 @@
 }
 
 .menu ul {
-  display: flex ;
+  display: flex;
   flex-wrap: wrap;
   padding: 30px;
 }
 
 .menu li {
-  display: block;
+  display: flex;
   padding: 10px;
-  margin-right: 10px;
+  margin-right: 200px;
   color: #fff;
   text-decoration: none;
   font-family: 'IBM Plex Mono', monospace;
@@ -22,4 +22,10 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: .1em;
+}
+
+.formulario h1 {
+  padding-right: 200px;
+  color: chartreuse;
+  margin-right: 200px;
 }
