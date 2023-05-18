@@ -21,11 +21,25 @@
   font-weight: bold;
   text-transform: uppercase;
   font-size: 0.875rem;
-  letter-spacing: .1em;
+  letter-spacing: .2em;
 }
 
 .formulario h1 {
-  padding-right: 200px;
+  padding: 20px 800px 20px 800px;
   color: chartreuse;
   margin-right: 200px;
+  font-size: 3rem;
+}
+
+.formulario ul {
+  background-color: grey;
+  padding: 10px 300px 10px 300px;
+  margin: 10px 10px 10px 10px;
+  
+}
+
+.direitosAno p {
+  font-size: 1rem;
+  padding: 10px 500px 10px 500px;
+  display: flex;
 }
